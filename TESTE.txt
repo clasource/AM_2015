@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ALTERA VITOR
 ALTERADO
+=======
+ALTERA VITOR OSSO
+>>>>>>> origin/master
