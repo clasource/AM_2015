@@ -4,6 +4,3 @@ ALTERADO
 =======
 ALTERA VITOR OSSO
 >>>>>>> origin/master
-
-
-ALTEREI AGORA
